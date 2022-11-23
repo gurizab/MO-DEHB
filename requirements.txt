@@ -1,0 +1,23 @@
+requests
+argparse
+numpy
+pillow==8.2.0
+scipy==1.4.1
+scikit-learn
+nose
+tqdm
+matplotlib
+seaborn
+pandas
+liac-arff
+ConfigSpace
+smac
+torch
+torchvision
+torchsummary
+jupyter
+loguru>=0.5.3
+dask>=2.27.0
+distributed>=2.27.0
+
+# add your requirements below this line
